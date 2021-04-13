@@ -1,6 +1,6 @@
 ### Hi there,  I am Hyeon Ah who is interested in *Cloud Architect*! :raising_hand:
 I like to have a variety of experiences to communicate with different people, plan strategies for solving many problems, and drive innovation to create business opportunities.
-I will make my dreams come true by steadily working hard and building my own career like the quote **'Effort is the best way to realize your dreams'.** 
+
    
 ### :dizzy: Experience​
 |              TYPE               |          DATE           |                           Content                            |
