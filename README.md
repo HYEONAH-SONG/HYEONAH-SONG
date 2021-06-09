@@ -10,6 +10,7 @@ I like to have a variety of experiences to communicate with different people, pl
 |     **External** <br />**Activity**     | 2020.10.08 - 2021.01.18 |                        **IBM C:LOUDERs**                         |
 | :ok_woman:<br />**School Activity** | 2018.05.11 - 2020.02.19 |   **Public Relations Ambassador of Pusan National University**   |
 |    **Volunteer** <br />**Activity**     | 2019.07.21 - 2019.08.03 | **Pusan National University Overseas Creativity Volunteer Group** |  
+|    **External** <br />**Activity**     | 2021.06.09 -  | **AFOS(AWS Fundamental Online Study) 2nd Term** | 
 
 ### :trophy: Ceritication
 AWS Solution Architect<br>
